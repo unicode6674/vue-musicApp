@@ -33,6 +33,7 @@ export default {
     return {
         headerShow:true,//是否显示头
         navShow:true,//是否显示导航
+        arr:[]
     }
   },
     components:{
